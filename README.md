@@ -1,4 +1,4 @@
-#Epson Communciation Protocol
+# Epson Communciation Protocol
 
 This package creates a minimal python server for sending and receiving messages to the epson controller. 
 The minimal starting code is as follows:
